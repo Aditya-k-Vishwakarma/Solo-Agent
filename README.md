@@ -1,0 +1,2 @@
+# Solo-Agent
+Agentic 
